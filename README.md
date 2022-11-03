@@ -12,7 +12,7 @@
 ## 目次
 
 1. [Amplify CLI](docs/amplify_cli.md)
-2. [Get Started]()
+2. [Get Started](docs/get_started.md)
 3. [API(GraphQL)]()
 4. [API(REST)]()
 5. [Authentication]()
