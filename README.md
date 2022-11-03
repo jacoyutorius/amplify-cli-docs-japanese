@@ -11,8 +11,8 @@
 
 ## 目次
 
-1. [Amplify CLI](docs/amplify_cli.md)
-2. [Get Started](docs/get_started.md)
+1. [Amplify CLIについて](docs/amplify_cli.md)
+2. [はじめに](docs/get_started.md)
 3. [API(GraphQL)]()
 4. [API(REST)]()
 5. [Authentication]()
@@ -26,4 +26,4 @@
 13. [Advanced workflows]()
 14. [Plugins]()
 15. [Migration & Backwards Compatibility]()
-16. [Reference](docs/reference.md)
+16. [リファレンス](docs/reference.md)
