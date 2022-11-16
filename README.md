@@ -18,7 +18,7 @@
 5. [Authentication]()
 6. [Storage]()
 7. [Functions]()
-8. [Geo](docs/geo.md)
+8. [地図](docs/geo.md)
 9. [Hosting]()
 10. [Custom AWS resources]()
 11. [Project-level configurations]()
