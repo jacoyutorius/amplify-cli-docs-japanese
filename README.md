@@ -14,6 +14,7 @@
 1. [Amplify CLIについて](docs/amplify_cli.md)
 2. [はじめに](docs/get_started.md)
 3. [API(GraphQL)]()
+ - [概要](docs/api_graphql_overviewapi_graphql_overview.md)
 4. [API(REST)]()
 5. [Authentication]()
 6. [Storage]()
